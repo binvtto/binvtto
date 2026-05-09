@@ -21,12 +21,12 @@
 
 # 👤 About me
 
-Hello There! I'm SEU NOME.
+Hello There! I'm SEU NOME.<br><br>
 
-💻 Computer Science Student
-🐧 Linux Enthusiast
-⚡ Learning Cybersecurity & Programming
-🎧 Music, terminals and cyberpunk aesthetics
+💻 Computer Science Student<br>
+🐧 Linux Enthusiast<br>
+⚡ Learning Cybersecurity & Programming<br>
+🎧 Music, terminals and cyberpunk aesthetics<br><br>
 
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff"/> </div> <br><br>
 
