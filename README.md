@@ -4,9 +4,6 @@
 
 </div>
 
----
-
-
 <!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin)](SEU_LINK)
