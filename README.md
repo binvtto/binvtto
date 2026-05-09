@@ -6,8 +6,8 @@
 
 ---
 
-```
-<div align="center">
+
+<!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin)](SEU_LINK)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram)](SEU_LINK)
@@ -15,8 +15,7 @@
 [![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord)](SEU_LINK)
 
   
-</div>
-```
+</div> -->
 ---
 
 
