@@ -17,6 +17,6 @@
 
 
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff"/> </div> <br><br>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff"/> </div> <br>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"/> </div>
