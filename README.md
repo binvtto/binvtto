@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dark">
+  <img src="githubbanner1.jpg">
 </p>
 
 ## Technologies
